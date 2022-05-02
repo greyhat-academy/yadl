@@ -1,2 +1,2 @@
 # YADL
-YADL Format & Language
+"Yeat Another Markdown Language"
