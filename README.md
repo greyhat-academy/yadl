@@ -1,2 +1,2 @@
-# yadl
-YADL Format &amp; Language
+# YADL
+YADL Format & Language
