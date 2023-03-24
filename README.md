@@ -138,4 +138,9 @@ Tabs will be replaced with spaces, because YAML using spaces is just cringe and 
   ```
   - Dates can also be presented as YYYYMMDD,- 
   - Time can also be presented as -,HHMMSS 
-  - Unless the Timezone has been specified, it'll be interpreted as [Unixtime](https://en.wikipedia.org/wiki/Unix_time) - human readable [UTC without leap seconds](https://en.wikipedia.org/wiki/Unix_time#Leap_seconds).
+  - Unless the Timezone has been specified, it'll be interpreted as [Unixtime](https://en.wikipedia.org/wiki/Unix_time) - (human readable [UTC without leap seconds](https://en.wikipedia.org/wiki/Unix_time#Leap_seconds)).
+
+## License:
+This Document is [ licensed under Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+See also [LICENSE.md](./LICENSE.md).
